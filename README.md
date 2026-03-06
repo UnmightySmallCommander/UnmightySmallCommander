@@ -40,7 +40,6 @@ A lightweight REST API built with **Go** designed for fast and efficient backend
 - Implements structured API routing and request handling
 - Designed with a **minimal and scalable backend architecture**
 - Emphasizes **performance, simplicity, and clean code structure**
-
 This project was created to explore **backend service development in Go** and understand how lightweight APIs can be built without heavy frameworks.
 ---
 
