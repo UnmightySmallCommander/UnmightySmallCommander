@@ -1,6 +1,6 @@
 # Hi, I'm Chatdanai 👋
 
-Computer Science student interested in **Machine Learning, Data Analysis, and Backend Development**.  
+Computer Engineering student interested in **Machine Learning, Data Analysis, and Backend Development**.  
 I enjoy building tools that turn raw data into useful insights — from **web crawlers and automation tools to ML models and data pipelines**.
 
 ---
